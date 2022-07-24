@@ -1,1 +1,27 @@
-
+{
+   "poolName": "PureVainPool",  
+   "poolOwner": [
+      {
+      "ownerName": "PureVain",
+      "ownerWitness": "local"
+      }
+   ],
+   "poolRewards": "PureVain",
+   "poolPledge": "689000000",    
+   "poolCost": "340000000",
+   "poolMargin": "0.03"
+   "poolRelays": [
+      {
+      "relayType": "ip",
+      "relayEntry": "137.220.99.114",
+      "relayPort": "3001"
+      }
+   ],
+   "poolMetaName": "PurVain",
+   "poolMetaDescription": "Our mission is to bring our favourite things in life together,Art,Fashion and Technology",
+   "poolMetaTicker": "VAIN",
+   "poolMetaHomepage": "https://armada-alliance.co",
+   "poolMetaUrl": "https://urlr.me/5KQ3F",
+   "poolExtendedMetaUrl": "",
+   "---": "--- DO NOT EDIT BELOW THIS LINE ---"
+}
