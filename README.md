@@ -1,0 +1,2 @@
+# PureVain
+Cardano Stake pool
