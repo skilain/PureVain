@@ -1,1 +1,32 @@
-
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "United Kingdom",
+        "social": {
+            "twitter_handle": " ",
+            "telegram_handle": ",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "skilain"
+        },
+        "company": {
+            "name": "PureVain",
+            "addr": "does it even matter?",
+            "city": "London",
+            "country": "United Kingdom",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": " We bring an array of artists, designers, creatives all under one roof to create designs that are not just unique, but also have meaning behind them. We always say, look at the little details, especially in our designs, as there is a story behind every symbol or little detail you find! Happy Easter Egg Hunting!.",
+            "server": "We bring an array of artists, designers, creatives all under one roof to create designs that are not just unique, but also have meaning behind them. We always say, look at the little details, especially in our designs, as there is a story behind every symbol or little detail you find! Happy Easter Egg Hunting !",
+            "company": " Sustainable brand upholding positive, environmental, and social impact whilst also tying in the metaverse with our Pure Vain NFT’s. We want our NFT holders to uphold the originality of the unique handmade garments and art we produce."
+        },
+    "my-pool-ids": {
+        "0": ""
+      }
+    }
+}
