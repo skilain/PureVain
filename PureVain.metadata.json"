@@ -1,27 +1,32 @@
 {
-   "poolName": "PureVain",  
-   "poolOwner": [
-      {
-      "ownerName": "PureVain",
-      "ownerWitness": "local"
-      }
-   ],
-   "poolRewards": "PureVain",
-   "poolPledge": "689000000",    
-   "poolCost": "340000000",
-   "poolMargin": "0.10"
-   "poolRelays": [
-      {
+  "poolName": "PureVain",  
+  "poolOwner": [
+    {
+    "ownerName": "PureVain",
+    "ownerWitness": "local"
+    }
+  ],
+  "poolRewards": "PureVain",
+  "poolPledge": "689000000",    
+  "poolCost": "340000000",
+  "poolMargin": "0.10"
+  "poolRelays": [
+    {
       "relayType": "ip",
       "relayEntry": "137.220.99.114",
       "relayPort": "3001"
-      }
-   ],
-   "poolMetaName": "PurVain",
-   "poolMetaDescription": "Our mission is to combine together,Art,Fashion and Technology",
-   "poolMetaTicker": "VAIN",
-   "poolMetaHomepage": "https://armada-alliance.co",
-   "poolMetaUrl": "https://urlr.me/5KQ3F",
-   "poolExtendedMetaUrl": https://urlr.me/wcXhM"",
+    },
+    {
+      "relayType": "ip",
+      "relayEntry": "137.220.99.114",
+      "relayPort": "3002"
+    }
+  ],
+  "poolMetaName": "PurVain",
+  "poolMetaDescription": "Our mission is to combine together,Art,Fashion and Technology",
+  "poolMetaTicker": "VAIN",
+  "poolMetaHomepage": "https://armada-alliance.co",
+  "poolMetaUrl": "https://urlr.me/5KQ3F",
+  "poolExtendedMetaUrl": https://urlr.me/wcXhM"",
    "---": "--- DO NOT EDIT BELOW THIS LINE ---"
 }
