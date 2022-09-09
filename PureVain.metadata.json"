@@ -9,7 +9,7 @@
    "poolRewards": "PureVain",
    "poolPledge": "689000000",    
    "poolCost": "340000000",
-   "poolMargin": "0.03"
+   "poolMargin": "0.10"
    "poolRelays": [
       {
       "relayType": "ip",
